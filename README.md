@@ -1,24 +1,20 @@
-## Welcome to GitHub Pages
+## BIENVENIDO A MI PAGINA DE REPOSITORIO
+Reinan Medina G.
+### Acerca de mí
 
-You can use the [editor on GitHub](https://github.com/Reinanm/Visualizacion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estudiante de la Maestria de Analitica de Datos en la Universidad Central de Colombia, Ingeniero Industrial de la Universidad Cooperativa de Colombia, Suboficial retirado de la Armada Nacional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Experticia profesional de 4 años en aspectos militares navales (Armas electronicas "Exocet MM40", Armamanto Pesado "120 mm", Seguridd Industrial), 16 años en el area comercial y de 6 años en la parte de producción y logistica en plantas de alimentos lacteos con enfasis comercial
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
+# Suboficial Naval, grado MA(r)
+## Armamento
+### Armas Electronicas
+Con convenio de la Armada Nacional de Colombia y la empresa Aerospatiale de Francia en al año 1984
+- Misiles Superficie-Superficie Exocet MM40
+### Armas Pesadas
+1. Cañones Boforss (Suecia) de 120 mm abordo del "ARC 7 de Agosto"
 2. List
 
 **Bold** and _Italic_ and `Code` text
